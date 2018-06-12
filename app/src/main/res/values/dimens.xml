@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_album_radius">5dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="option_size">23sp</dimen>
+    <dimen name="question_text_size">18sp</dimen>
+    <dimen name="ad_text_size">25sp</dimen>
+    <dimen name="answer_text_size">16sp</dimen>
+</resources>
